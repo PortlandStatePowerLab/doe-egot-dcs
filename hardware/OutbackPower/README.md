@@ -44,3 +44,17 @@ The Mate3s is useful for debugging and testing basic features of the Radian inve
 ## AXS Port
 
 - version: 
+
+[Documentation](https://www.outbackpower.com/products/system-management/axs-port)
+
+### Update Firmware
+
+- Eject SD card from AXS Port
+- Insert into PC using some form of Adapter
+- Download [firmware](https://www.outbackpower.com/downloads/firmware/axs_port/AXS_Port_V003_019_000.zip)
+- extract files into the SD card folder
+- Eject SD card from PC
+- Insert into AXS Port
+- Disconnect any OutBack device cable from the AXS Port.
+- Using a narrow tool, press and hold the reset switch. See Figure 11. (Refer to Figure 8 on page 9 for more information.)
+- Reconnect the OutBack device cable. The amber SD Card LED will blink while the firmware is being updated. When this indicator stops blinking, release the switch. 
