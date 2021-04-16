@@ -1,2 +1,2 @@
-# doe-egot-dcs
-Energy Grid of Things: Distributed Control System. 
+# pge-deras-dcs
+Portland General Electric: Distributed Control System for DERAS
