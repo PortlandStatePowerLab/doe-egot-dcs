@@ -1,2 +1,2 @@
-# pge-deras-dcs
-Portland General Electric: Distributed Control System for DERAS
+# pge-deras-dcm
+Distributed Energy Resource Aggregation System: Distributed Control Module 
